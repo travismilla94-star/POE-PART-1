@@ -3,7 +3,7 @@
 ## Student Information
 - **Full Name:** [SOMILA TAFENI]
 - **Student Number:** [ST10482481]
-- **Subject:** [DATABASE INTERDEIATE 6222]
+- **Subject:** [WEB DEVELOPMENT WEDE5020]
 - **Group:** [Group 1]
 
 ## Project Overview
