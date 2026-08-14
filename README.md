@@ -1,10 +1,10 @@
-# Ubuntu Paws Animal Rescue — Website Project
+# Ubuntu Paws Animal Rescue Website Project
 
 ## Student Information
-- **Full Name:** [SOMILA TAFENI]
-- **Student Number:** [ST10482481]
-- **Subject:** [WEB DEVELOPMENT WEDE5020]
-- **Group:** [Group 1]
+- **Full Name: SOMILA TAFENI
+- **Student Number: ST10482481
+- **Subject: WEB DEVELOPMENT WEDE5020
+- **Group: Group 1
 
 ## Project Overview
 Ubuntu Paws Animal Rescue is a fictional, volunteer-run non-profit organisation based in
@@ -77,7 +77,7 @@ Track changes and improvements to the website here as the project progresses.
 
 | Date | Change | Author |
 |---|---|---|
-| [14/08/2026] | Initial project structure, HTML pages for all 5 sitemap pages, base stylesheet, and README created for Part 1. | [Somila Tafeni] |
+| [14/08/2026] | Initial project structure, HTML pages for all 5 sitemap pages, base stylesheet, and README created for Part 1. | Somila Tafeni |
 
 ## References
 References are cited using the Harvard Style Referencing Guide, adapted for the IIE.
