@@ -41,15 +41,15 @@ enquiries. This website addresses that gap.
 | Part 3 | JavaScript functionality and final testing | Planned |
 
 ## Part 1 Details
-
+```
 ### Sitemap
-
+```
 Homepage (index.html)
  ├── About Us (about.html)
  ├── Services (services.html)
  ├── Enquiry (enquiry.html)
  └── Contact (contact.html)
-
+```
 All five pages share a common header, navigation menu and footer. The navigation
 menu links to every page and highlights the current page with an active class.
 
@@ -74,7 +74,7 @@ ubuntu-paws/
 
 ## Changelog
 Track changes and improvements to the website here as the project progresses.
-
+```
 | Date | Change | Author |
 |---|---|---|
 | [14/08/2026] | Initial project structure, HTML pages for all 5 sitemap pages, base stylesheet, and README created for Part 1. | Somila Tafeni |
