@@ -1,12 +1,12 @@
 Ubuntu Paws Animal Rescue Website Project
 
-## Student Information
+ Student Information
 - Full Name: SOMILA TAFENI
 - Student Number: ST10482481
 - Subject: WEB DEVELOPMENT WEDE5020
 - Group: Group 1
 
-## Project Overview
+ Project Overview
 Ubuntu Paws Animal Rescue is a fictional, volunteer-run non-profit organisation based in
 Johannesburg, Gauteng, dedicated to rescuing, rehabilitating and rehoming abandoned and
 injured animals. This repository contains the HTML, CSS and (in later parts) JavaScript
@@ -17,14 +17,14 @@ The organisation currently has no website and relies solely on a Facebook page, 
 limits discoverability and does not support structured adoption, volunteer or sponsorship
 enquiries. This website addresses that gap.
 
-## Website Goals and Objectives
+ Website Goals and Objectives
 - Increase adoption enquiries by giving the shelter's available animals an online presence.
 - Grow the volunteer and foster-carer base through an accessible enquiry process.
 - Raise donation and sponsorship income by clearly communicating how funds are used.
 - **KPIs:** number of adoption enquiries per month, volunteer/sponsor sign-ups, and
   overall page visits, tracked from launch.
 
-## Key Features and Functionality
+ Key Features and Functionality
 - Responsive navigation menu linking every page on the site.
 - Homepage with a hero section and calls to action to adopt, volunteer or donate.
 - About Us page covering the organisation's history, mission, vision and team.
@@ -33,16 +33,16 @@ enquiries. This website addresses that gap.
 - Contact page listing two physical locations (main shelter and foster care office)
   with a general contact form.
 
-## Timeline and Milestones
+ Timeline and Milestones
 | Milestone | Description | Status |
 |---|---|---|
 | Part 1 | Project planning, proposal, HTML structure | In progress |
 | Part 2 | CSS styling and responsive design | Planned |
 | Part 3 | JavaScript functionality and final testing | Planned |
 
-## Part 1 Details
+ Part 1 Details
 
-### Sitemap
+ Sitemap
 ```
 Homepage (index.html)
  ├── About Us (about.html)
@@ -53,7 +53,7 @@ Homepage (index.html)
 All five pages share a common header, navigation menu and footer. The navigation
 menu links to every page and highlights the current page with an active class.
 ```
-### File and Folder Structure
+ File and Folder Structure
 
 ubuntu-paws/
 ├── index.html
@@ -72,7 +72,7 @@ ubuntu-paws/
 └── README.md
 
 
-## Changelog
+ Changelog
 Track changes and improvements to the website here as the project progresses.
 ```
 | Date | Change | Author |
