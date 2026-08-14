@@ -51,7 +51,7 @@ Homepage (index.html)
  └── Contact (contact.html)
 ```
 All five pages share a common header, navigation menu and footer. The navigation
-menu links to every page and highlights the current page with an `active` class.
+menu links to every page and highlights the current page with an active class.
 
 ### File and Folder Structure
 ```
