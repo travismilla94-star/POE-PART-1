@@ -1,4 +1,4 @@
-# Ubuntu Paws Animal Rescue Website Project
+Ubuntu Paws Animal Rescue Website Project
 
 ## Student Information
 - Full Name: SOMILA TAFENI
