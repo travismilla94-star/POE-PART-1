@@ -85,6 +85,6 @@ References specific to each Website Project Proposal are included in the
 *Website Project Proposal* document. General references used to complete Part 1 are
 listed below and will be updated with new references as required in Part 2 and Part 3.
 
-- [Author/Organisation. (Year). *Title of source*. Retrieved from URL — add each
+- Don Duckett. (2026).https://www.boot.dev/blog/education/best-web-dev-books  . Retrieved from URL — add each
   source you actually use for code snippets, text content, or images.]
 
