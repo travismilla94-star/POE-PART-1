@@ -54,7 +54,7 @@ All five pages share a common header, navigation menu and footer. The navigation
 menu links to every page and highlights the current page with an active class.
 
 ### File and Folder Structure
-
+```
 ubuntu-paws/
 ├── index.html
 ├── about.html
@@ -70,7 +70,7 @@ ubuntu-paws/
 ├── documents/
 │   └── (supporting documents, e.g. researched content)
 └── README.md
-
+```
 
 ## Changelog
 Track changes and improvements to the website here as the project progresses.
