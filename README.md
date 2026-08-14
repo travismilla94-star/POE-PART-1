@@ -1,10 +1,10 @@
 # Ubuntu Paws Animal Rescue Website Project
 
 ## Student Information
-- **Full Name: SOMILA TAFENI
-- **Student Number: ST10482481
-- **Subject: WEB DEVELOPMENT WEDE5020
-- **Group: Group 1
+- Full Name: SOMILA TAFENI
+- Student Number: ST10482481
+- Subject: WEB DEVELOPMENT WEDE5020
+- Group: Group 1
 
 ## Project Overview
 Ubuntu Paws Animal Rescue is a fictional, volunteer-run non-profit organisation based in
